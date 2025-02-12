@@ -1,0 +1,7 @@
+# Ignore virtual environment folder
+venv/
+# Optional: Ignore Python cache
+__pycache__/
+*.pyc
+# If you want to ignore large data files (optional)
+data/
